@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karaa\\OneDrive\\Belgeler\\Uygulamalar\\Odev_1\\Odev_1.csproj",
-      "projectName": "Odev_1",
-      "projectPath": "C:\\Users\\karaa\\OneDrive\\Belgeler\\Uygulamalar\\Odev_1\\Odev_1.csproj",
+      "projectUniqueName": "C:\\Users\\karaa\\OneDrive\\Belgeler\\Uygulamalar\\Operatörler_Odev\\Operatörler_Odev.csproj",
+      "projectName": "Operatörler_Odev",
+      "projectPath": "C:\\Users\\karaa\\OneDrive\\Belgeler\\Uygulamalar\\Operatörler_Odev\\Operatörler_Odev.csproj",
       "packagesPath": "C:\\Users\\karaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karaa\\OneDrive\\Belgeler\\Uygulamalar\\Odev_1\\obj\\",
+      "outputPath": "C:\\Users\\karaa\\OneDrive\\Belgeler\\Uygulamalar\\Operatörler_Odev\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karaa\\AppData\\Roaming\\NuGet\\NuGet.Config"
