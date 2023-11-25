@@ -1,0 +1,15 @@
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\bin\Debug\net8.0\Proje-1-Console Telefon Rehberi Uygulaması.exe
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\bin\Debug\net8.0\Proje-1-Console Telefon Rehberi Uygulaması.deps.json
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\bin\Debug\net8.0\Proje-1-Console Telefon Rehberi Uygulaması.runtimeconfig.json
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\bin\Debug\net8.0\Proje-1-Console Telefon Rehberi Uygulaması.dll
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\bin\Debug\net8.0\Proje-1-Console Telefon Rehberi Uygulaması.pdb
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Proje-1-Console Telefon Rehberi Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Proje-1-Console Telefon Rehberi Uygulaması.AssemblyInfoInputs.cache
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Proje-1-Console Telefon Rehberi Uygulaması.AssemblyInfo.cs
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Proje-1-Console Telefon Rehberi Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Proje-1-Console Telefon Rehberi Uygulaması.sourcelink.json
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Proje-1-Console Telefon Rehberi Uygulaması.dll
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\refint\Proje-1-Console Telefon Rehberi Uygulaması.dll
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Proje-1-Console Telefon Rehberi Uygulaması.pdb
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Proje-1-Console Telefon Rehberi Uygulaması.genruntimeconfig.cache
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-1-Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\ref\Proje-1-Console Telefon Rehberi Uygulaması.dll
