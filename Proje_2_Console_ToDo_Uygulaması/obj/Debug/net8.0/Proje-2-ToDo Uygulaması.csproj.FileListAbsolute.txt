@@ -1,0 +1,5 @@
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-2-ToDo Uygulaması\obj\Debug\net8.0\Proje-2-ToDo Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-2-ToDo Uygulaması\obj\Debug\net8.0\Proje-2-ToDo Uygulaması.AssemblyInfoInputs.cache
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-2-ToDo Uygulaması\obj\Debug\net8.0\Proje-2-ToDo Uygulaması.AssemblyInfo.cs
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-2-ToDo Uygulaması\obj\Debug\net8.0\Proje-2-ToDo Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\Proje-2-ToDo Uygulaması\obj\Debug\net8.0\Proje-2-ToDo Uygulaması.sourcelink.json

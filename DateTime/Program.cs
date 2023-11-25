@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DateTime_Math
+namespace DateTime
 {
 	public class Program
 	{

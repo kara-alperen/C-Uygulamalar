@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Koleksiyonlar_Soru_2
+namespace Soru2
 {
 	public class Program
 	{

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Net.Mime.MediaTypeNames;
 
-namespace Koleksiyonlar_Soru_3
+namespace Soru3
 {
 	public class Program
 	{

@@ -1,0 +1,15 @@
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\bin\Debug\net8.0\IntegerİklililerininToplamı.exe
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\bin\Debug\net8.0\IntegerİklililerininToplamı.deps.json
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\bin\Debug\net8.0\IntegerİklililerininToplamı.runtimeconfig.json
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\bin\Debug\net8.0\IntegerİklililerininToplamı.dll
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\bin\Debug\net8.0\IntegerİklililerininToplamı.pdb
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\obj\Debug\net8.0\IntegerİklililerininToplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\obj\Debug\net8.0\IntegerİklililerininToplamı.AssemblyInfoInputs.cache
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\obj\Debug\net8.0\IntegerİklililerininToplamı.AssemblyInfo.cs
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\obj\Debug\net8.0\IntegerİklililerininToplamı.csproj.CoreCompileInputs.cache
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\obj\Debug\net8.0\IntegerİklililerininToplamı.sourcelink.json
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\obj\Debug\net8.0\IntegerİklililerininToplamı.dll
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\obj\Debug\net8.0\refint\IntegerİklililerininToplamı.dll
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\obj\Debug\net8.0\IntegerİklililerininToplamı.pdb
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\obj\Debug\net8.0\IntegerİklililerininToplamı.genruntimeconfig.cache
+C:\Users\karaa\OneDrive\Belgeler\Uygulamalar\IntegerİklililerininToplamı\obj\Debug\net8.0\ref\IntegerİklililerininToplamı.dll

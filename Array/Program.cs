@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace arrays
-{
+namespace Array
+
 	public class Program
 	{
 		static void Main(string[] args)
@@ -37,4 +37,3 @@ namespace arrays
 			Console.WriteLine("Ortalama :" + toplam / diziUzunlugu);
 		}
 	}
-}

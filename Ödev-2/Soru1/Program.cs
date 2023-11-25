@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Odev2_Soru1
+namespace Soru1
 {
 	public class Program
 	{
